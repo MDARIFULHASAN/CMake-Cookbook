@@ -8,3 +8,4 @@ int main() {
   std::cout << say_hello() << std::endl;
   return EXIT_SUCCESS;
 }
+// Trial part
